@@ -1,16 +1,16 @@
-Superstore Sales & Profit Analysis Dashboard
-Project Summary
+***Superstore Sales & Profit Analysis Dashboard***
+Project Summary:
 Developed an end-to-end retail analytics dashboard using SQL and Power BI to analyze sales performance, profitability trends, and regional business performance.
 The project focuses on data aggregation, ranking logic, KPI generation, and interactive visualization to support data-driven business decision-making.
 
-Tools & Technologies
+Tools & Technologies:
 SQL (Window Functions, Aggregations, Ranking)
 Power BI Desktop
 ODBC Data Source Connection
 Data Modeling
 Retail Sales Dataset (Superstore)
 
-Key Responsibilities
+Key Responsibilities:
 Connected relational database to Power BI using ODBC driver.
 Performed data aggregation using SQL (GROUP BY, SUM, ORDER BY).
 Implemented window functions (RANK() OVER) to identify top-performing categories and cities.
@@ -32,7 +32,7 @@ Profit vs Sales Analysis
 Loss-Making Segment Identification
 Interactive filtering by Region, Category, and City
 
-SQL Concepts Applied
+SQL Concepts Applied:
 Aggregate Functions (SUM)
 Window Functions (RANK() OVER)
 Partitioning Logic
@@ -44,7 +44,7 @@ Highlighted top-performing cities driving overall profitability.
 Detected segments with strong revenue but negative profit margins.
 Enabled performance comparison across regions.
 
-Skills Demonstrated
+Skills Demonstrated:
 Data Cleaning and Transformation
 SQL Query Optimization
 Business Intelligence Reporting
@@ -53,10 +53,10 @@ KPI Development
 Analytical Thinking
 Dashboard Storytelling
 
-Outcome
+Outcome:
 Delivered an interactive analytics dashboard that transforms raw retail transaction data into actionable business insights, supporting strategic sales and profitability analysis.
 
-Author
+Author,
 
 Gayathri Kanchi|
 MSc Data Science
